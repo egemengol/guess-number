@@ -16,6 +16,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       Wait for the program to compile. Then try 42.
     </p>
     <div id="proofFormContainer"></div>
+    <div id="proofResult"></div>
   </div>
 `;
 
